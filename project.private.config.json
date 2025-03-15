@@ -3,6 +3,20 @@
   "projectname": "%E5%9B%A2%E5%AE%9D",
   "setting": {
     "compileHotReLoad": true,
-    "urlCheck": false
+    "urlCheck": true
+  },
+  "libVersion": "3.7.10",
+  "condition": {
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages/schedule/schedule",
+          "pathName": "pages/schedule/schedule",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        }
+      ]
+    }
   }
 }
